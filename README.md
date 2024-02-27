@@ -1,7 +1,7 @@
 # git
 git cheat-sheet and tutorial.
 
-[You can see the CHEAT-SHEET here](cheat-sheet)
+[You can see the CHEAT-SHEET here](cheat-sheet.md)
 
 ## Video
 
