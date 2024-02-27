@@ -73,7 +73,7 @@ git diff HEAD
 
 ### Make a new commit from files in staging area
 ``` bash
-git commit -m "{file name}"
+git commit -m "details of this commit"
 ```
 
 ### Remove a file from repository
